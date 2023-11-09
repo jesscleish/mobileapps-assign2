@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="raisin">#FF6B4E61</color>
+    <color name = "rose">#CD8987</color>
+    <color name="lblue">#6699CC</color>
+    <color name="sage">#A2AD91</color>
+    <color name ="green">#7EA16B</color>
+    <color name="ygreen">#99C24D</color>
+    <color name="redwood">#AD4C48</color>
+    <color name="plat">#EDE8EA</color>
+</resources>

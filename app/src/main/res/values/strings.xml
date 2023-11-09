@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LatLongFinderApp</string>
+    <string name="lat">Latitude:</string>
+    <string name="latTxt">latitude</string>
+    <string name="lon">Longitude:</string>
+    <string name="lonTxt">longitude</string>
+    <string name="address">Address:</string>
+    <string name="addrTxt">address</string>
+    <string name="locName">Location Name:</string>
+    <string name="name">location name/label</string>
+    <string name="look">What are you looking for?</string>
+    <string name="locSetting">Location Table Settings</string>
+    <string name="add">Add New Location Record</string>
+    <string name="delete">Delete Location Record</string>
+    <string name="edit">Update Location Record</string>
+    <string name="addLoc">ADD LOCATION</string>
+    <string name="saveChange">SAVE CHANGES</string>
+    <string name="discardChange">DISCARD CHANGES</string>
+    <string name="deleteLoc">DELETE LOCATION</string>
+    <string name="back">BACK</string>
+    <string name="searchq">search</string>
+    <string name="search">SEARCH</string>
+    <string name="getGeo">GET GEOCORDINATES</string>
+    <string name="placehold">placeholder</string>
+</resources>
